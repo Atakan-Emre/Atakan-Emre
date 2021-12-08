@@ -6,7 +6,7 @@ I'm Architect but after the job change decision, i am a software developer who i
 </h3>
 
 <br>
-- 🌱 <b> I’m currently learning **JavaScript**</b>
+- 🌱 <b> I’m currently learning JavaScript</b>
 <br>
 
 
