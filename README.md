@@ -26,24 +26,17 @@ I'm Architect but after the job change decision, i am a software developer who i
 
 [<img width="30" src="https://unpkg.com/simple-icons@v5/icons/hackerrank.svg" align="left" />][hackerrank]
 
-[LinkedIn]: https://www.linkedin.com/in/oguzhnduran/
+[LinkedIn]: https://www.linkedin.com/in/atakan-emre/
 
-[instagram]: https://www.instagram.com/ogzhndrn/
+[instagram]: https://www.instagram.com/atakann.emre/
 
-[medium]: https://medium.com/@oguzhanduran
+[medium]: https://medium.com/@AtakanEmre
 
-[hackerrank]: https://www.hackerrank.com/oguzhanduran
+[hackerrank]: https://www.hackerrank.com/satakanemre
 
 <br><br>
 
 
-<p align="left">
-    
-[<img width="30" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" align="left" />][LinkedIn]
-[LinkedIn]: https://www.linkedin.com/in/atakan-emre/
-<a href="https://www.hackerrank.com/satakanemre" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" alt="Atakan-Emre" height="40" width="40" /></a>
-<a href="https://twitter.com/atakan_emree" target="blank"><img align="center" src="https://www.createchallenge.org/images/logo-twitter.png/@@images/b588afe1-9051-46e9-b16c-09ba486fcc44.png" alt="bleedeleventh" height="30" width="35" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
