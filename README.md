@@ -16,7 +16,8 @@ I'm Architect but after the job change decision, i am a software developer who i
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/atakan-emre/" target="blank"><img align="center" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" alt="Atakan-Emre" height="40" width="40" /></a>
+[<img width="30" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" align="left" />][LinkedIn]
+[LinkedIn]: https://www.linkedin.com/in/atakan-emre/
 <a href="https://www.hackerrank.com/satakanemre" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" alt="Atakan-Emre" height="40" width="40" /></a>
 <a href="https://twitter.com/atakan_emree" target="blank"><img align="center" src="https://www.createchallenge.org/images/logo-twitter.png/@@images/b588afe1-9051-46e9-b16c-09ba486fcc44.png" alt="bleedeleventh" height="30" width="35" /></a>
 </p>
