@@ -26,6 +26,9 @@ I'm Architect but after the job change decision, i am a software developer who i
 
 [<img width="30" src="https://unpkg.com/simple-icons@v5/icons/hackerrank.svg" align="left" />][hackerrank]
 
+[<img width="30" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg" align="left" />][twitter]
+
+
 [LinkedIn]: https://www.linkedin.com/in/atakan-emre/
 
 [instagram]: https://www.instagram.com/atakann.emre/
@@ -33,6 +36,9 @@ I'm Architect but after the job change decision, i am a software developer who i
 [medium]: https://medium.com/@AtakanEmre
 
 [hackerrank]: https://www.hackerrank.com/satakanemre
+
+[twitter]: https://twitter.com/dev_atakan
+
 
 <br><br>
 
