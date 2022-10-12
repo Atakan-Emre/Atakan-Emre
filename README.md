@@ -15,7 +15,30 @@ I'm Architect but after the job change decision, i am a software developer who i
 
 
 <h3 align="left">Connect with me:</h3>
+
+
+
+[<img width="30" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" align="left" />][LinkedIn]
+
+[<img width="30" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" align="left" />][instagram]
+
+[<img width="30" src="https://unpkg.com/simple-icons@v5/icons/medium.svg" align="left" />][medium]
+
+[<img width="30" src="https://unpkg.com/simple-icons@v5/icons/hackerrank.svg" align="left" />][hackerrank]
+
+[LinkedIn]: https://www.linkedin.com/in/oguzhnduran/
+
+[instagram]: https://www.instagram.com/ogzhndrn/
+
+[medium]: https://medium.com/@oguzhanduran
+
+[hackerrank]: https://www.hackerrank.com/oguzhanduran
+
+<br><br>
+
+
 <p align="left">
+    
 [<img width="30" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" align="left" />][LinkedIn]
 [LinkedIn]: https://www.linkedin.com/in/atakan-emre/
 <a href="https://www.hackerrank.com/satakanemre" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" alt="Atakan-Emre" height="40" width="40" /></a>
