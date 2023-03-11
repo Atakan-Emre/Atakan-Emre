@@ -67,7 +67,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
   <a href="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="Swift" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="Swift" width="37" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
