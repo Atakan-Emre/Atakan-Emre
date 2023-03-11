@@ -1,15 +1,18 @@
-<h1 align="center">Hello,I'm Atakan!</h1>
-<h3 align="left">👋🏼 I'm an iOS developer and I've decided to pursue a career in software development.</h3>
+<h1 align="center">Hello, I'm Atakan!</h1>
+<h3 align="left">👋🏼 I'm an iOS developer and have decided to pursue a career in software development.</h3>
 
-
-<br>
+<p>
 💻 While my experience lies primarily in front-end development, I've taught myself iOS app development and am currently focusing on creating iOS applications using Swift.
+</p>
 
+<p>
 🌱 I'm committed to constantly learning and improving my skills, particularly in the realm of Swift programming.
+</p>
 
+<p>
 🏢 I'm open to new technologies and enjoy working as part of a team to solve problems and create new solutions.
+</p>
 
-</br>
 
 
 ![](https://komarev.com/ghpvc/?username=Atakan-Emre&style=flat-square)
