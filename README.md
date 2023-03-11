@@ -1,21 +1,13 @@
 <h1 align="center">Hello,I'm Atakan!</h1>
 <h3 align="left">👋🏼 I'm an iOS developer and I've decided to pursue a career in software development.</h3>
-    
-//<h3 align="left">
-💻 While my experience lies primarily in front-end development, I've taught myself iOS app development and am currently focusing on creating iOS applications using Swift.
-//</h3>
+
 
 <br>
-👋🏼 I'm an iOS developer and I've decided to pursue a career in software development.
-
 💻 While my experience lies primarily in front-end development, I've taught myself iOS app development and am currently focusing on creating iOS applications using Swift.
 
 🌱 I'm committed to constantly learning and improving my skills, particularly in the realm of Swift programming.
 
 🏢 I'm open to new technologies and enjoy working as part of a team to solve problems and create new solutions.
-
-💬 To learn more about me, feel free to visit my [linkedin/github/portfolio] or reach out to me via [email/phone].
-
 
 <br>
 
