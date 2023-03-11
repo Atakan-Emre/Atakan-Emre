@@ -9,7 +9,7 @@
 
 🏢 I'm open to new technologies and enjoy working as part of a team to solve problems and create new solutions.
 
-<br>
+</br>
 
 
 ![](https://komarev.com/ghpvc/?username=Atakan-Emre&style=flat-square)
