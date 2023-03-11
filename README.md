@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Atakan</h1>
-<h3 align="left">I’m a junior front-end developer</h3>
+<h1 align="center">Hello,I'm Atakan!</h1>
+<h3 align="left">👋🏼 I'm an iOS developer and I've decided to pursue a career in software development.</h3>
     
 <h3 align="left">
-I'm Architect but after the job change decision, i am a software developer who is determined to follow his dream. 
+💻 While my experience lies primarily in front-end development, I've taught myself iOS app development and am currently focusing on creating iOS applications using Swift.
 </h3>
 
 <br>
-- 🌱 <b> I’m currently learning JavaScript</b>
+ 🌱 <b>I'm committed to constantly learning and improving my skills, particularly in the realm of Swift programming.</b>
 <br>
 
 
