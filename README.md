@@ -88,10 +88,3 @@
 
 
 
-<h3 align="left">My Dev Statistics: </h3>
-
-<p>  
-<!-- GitHub Stats -->  
-<img height="132em" src="https://github-readme-stats.vercel.app/api?username=Atakan-Emre&&theme=darcula&show_icons=true&hide_border=true" />
-<img height="132em"  src="https://github-readme-streak-stats.herokuapp.com/?user=Atakan-Emre&theme=darcula" alt="Atakan-Emre" />
-    
