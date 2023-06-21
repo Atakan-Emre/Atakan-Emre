@@ -1,17 +1,12 @@
 <h1 align="center">Hello, I'm Atakan!</h1>
 <h3 align="left">👋🏼 I'm an iOS developer and have decided to pursue a career in software development.</h3>
 
-<p>
-💻 While my experience lies primarily in front-end development, I've taught myself iOS app development and am currently focusing on creating iOS applications using Swift.
-</p>
+<p> 👋🏼 I am a dedicated Full Stack Developer who has decided to further my career in software development.<p/>
+<p> 💻 Although my expertise primarily lies within front-end development, I have been diligently teaching myself technologies like Java, React, and Spring Boot, with a current emphasis on working on projects that incorporate these technologies.<p/>
 
-<p>
-🌱 I'm committed to constantly learning and improving my skills, particularly in the realm of Swift programming.
-</p>
+<p> 🌱 I am committed to a path of constant learning and skill enhancement, specifically in the realms of Java, React, and Spring Boot programming.<p/>
 
-<p>
-🏢 I'm open to new technologies and enjoy working as part of a team to solve problems and create new solutions.
-</p>
+<p> 🏢 I remain open to new technologies and take pleasure in collaborative work within a team to tackle challenges and create innovative solutions<p/>
 
 
 
