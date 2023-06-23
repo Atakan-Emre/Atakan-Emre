@@ -6,7 +6,7 @@
 
 <p> 🌱 I am committed to a path of constant learning and skill enhancement, specifically in the realms of Java, React, and Spring Boot programming.<p/>
 
-<p> 🏢 I remain open to new technologies and take pleasure in collaborative work within a team to tackle challenges and create innovative solutions<p/>
+<p> 🏢 I remain open to new technologies and take pleasure in collaborative work within a team to tackle challenges and create innovative solutions.<p/>
 
 
 
