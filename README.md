@@ -14,8 +14,7 @@
 <hr>
 
 
-<h3 align="left">Connect with me:</h3>
-
+<h3 align="left">Connect With Me:</h3>
 
 
 [<img width="30" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" align="left" />][LinkedIn]
