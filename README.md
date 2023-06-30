@@ -2,7 +2,7 @@
 <h3 align="left">👋🏼 I am a dedicated Full Stack Developer who has decided to further my career in software development.</h3>
 
 
-<p> 💻 Although my expertise primarily lies within front-end development, I have been diligently teaching myself technologies like Java, React, and Spring Boot, with a current emphasis on working on projects that incorporate these technologies<p/>
+<p> 💻 Although my expertise primarily lies within front-end development, I have been diligently teaching myself technologies like Java, React, and Spring Boot, with a current emphasis on working on projects that incorporate these technologies.<p/>
 
 <p> 🌱 I am committed to a path of constant learning and skill enhancement, specifically in the realms of Java, React, and Spring Boot programming.<p/>
 
