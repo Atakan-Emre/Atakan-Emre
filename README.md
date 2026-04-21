@@ -1,78 +1,85 @@
-<h1 align="center">Hello, I'm Atakan!</h1>
-<h3 align="left">👋🏼 I am a dedicated Full Stack Developer who has decided to further my career in software development.</h3>
+<h1 align="center">Hi there, I'm Atakan Emre 👋</h1>
+<h3 align="center">Software Engineering Postgraduate | AI Researcher | Open Source Contributor</h3>
 
+<br>
 
-<p> 💻 Although my expertise primarily lies within front-end development, I have been diligently teaching myself technologies like Java, React, and Spring Boot, with a current emphasis on working on projects that incorporate these technologies.<p/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Atakan-Emre&style=flat-square&color=blue" alt="Profile Views" />
+  <a href="https://github.com/Atakan-Emre?tab=followers"><img src="https://img.shields.io/github/followers/Atakan-Emre?style=flat-square&color=success" alt="Followers" /></a>
+  <a href="https://github.com/Atakan-Emre"><img src="https://img.shields.io/github/stars/Atakan-Emre?style=flat-square&color=yellow" alt="Stars" /></a>
+</p>
 
-<p> 🌱 I am committed to a path of constant learning and skill enhancement, specifically in the realms of Java, React, and Spring Boot programming.<p/>
+---
 
-<p> 🏢 I remain open to new technologies and take pleasure in collaborative work within a team to tackle challenges and create innovative solutions.<p/>
+### 🚀 About Me
 
+I am a dedicated Software Engineer and Postgraduate Researcher transitioning from traditional Full-Stack development to the deep tech realms of **Artificial Intelligence, Bioinformatics, and Machine Learning Operations (MLOps)**. 
 
+Currently, I am working on my Master's thesis focusing on Cross-Modal Hybrid Benchmarks while building intelligent, local-first workflows. I thrive on bridging the gap between cutting-edge AI research and robust software engineering.
 
-![](https://komarev.com/ghpvc/?username=Atakan-Emre&style=flat-square)
-<hr>
+- 🎓 **Currently studying:** Software Engineering (MSc), preparing for Doctoral Qualifying Exams.
+- 🔬 **Research Focus:** Peptide Property Prediction, Clinical Decision Support Systems (HealthTech), and RAG architectures.
+- 💻 **Tech Philosophy:** Deeply interested in local Large Language Model (LLM) orchestration, agentic workflows (Model Context Protocol), and optimizing models for Apple Silicon (MLX).
+- 🏆 **Open Source:** Creator and maintainer of [McpTestGenerator](https://github.com/Atakan-Emre/McpTestGenerator), an automated QA tool powered by MCP.
+- 🤝 **Let's collaborate on:** Applied AI in Healthcare, Bioinformatics Data Pipelines, and Open Source LLM Tools.
 
+---
 
-<h3 align="left">Connect With Me:</h3>
+### 🧠 Core Expertise & Tech Stack
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,jupyter" alt="AI Stack" />
+  </a>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,java,spring,kotlin" alt="Languages & Frameworks" />
+  </a>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,bash,linux,vscode" alt="Tools & Infra" />
+  </a>
+</p>
 
-[<img width="30" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" align="left" />][LinkedIn]
+---
 
-[<img width="30" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" align="left" />][instagram]
+### 📂 Featured Research & Projects
 
-[<img width="30" src="https://unpkg.com/simple-icons@v5/icons/medium.svg" align="left" />][medium]
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[McpTestGenerator](https://github.com/Atakan-Emre/McpTestGenerator)** | Standardized Test Case Generation for LLM Agents via Model Context Protocol (MCP). Bridging AI and QA (Xray/Jira). | `TypeScript`, `MCP`, `LLM Agents` |
+| **[PeptiProp](https://github.com/Atakan-Emre/PeptiProp)** | Deep Learning & GNN framework for accurate Peptide Property Prediction. Reranking candidates using ESM-2 embeddings. | `Python`, `PyTorch`, `MLX`, `GNN` |
+| **[NISTH (PostTx-Monitor)](https://github.com/Atakan-Emre/KMRProject)** | AI-Driven Post-Transplant Monitoring. End-to-end clinical decision support system for health risk analysis. | `TensorFlow`, `Next.js`, `Python` |
+| **[Academic-Incentive-RAG](https://github.com/Atakan-Emre/firat-akademik-tesvik-llm)** | AI-Powered Academic Incentive Calculator using RAG. Autonomously analyzes regulations and academic CVs. | `LLM`, `LangChain`, `RAG`, `NLP` |
 
-[<img width="30" src="https://unpkg.com/simple-icons@v5/icons/hackerrank.svg" align="left" />][hackerrank]
+---
 
-[<img width="30" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg" align="left" />][twitter]
+### 📊 GitHub Analytics
 
+<p align="center">
+  <a href="https://github.com/Atakan-Emre">
+    <img src="https://github-readme-stats.vercel.app/api?username=Atakan-Emre&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6" alt="Atakan's GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/Atakan-Emre">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atakan-Emre&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6" alt="Top Languages" width="48%" />
+  </a>
+</p>
 
-[LinkedIn]: https://www.linkedin.com/in/atakan-emre/
+---
 
-[instagram]: https://www.instagram.com/atakann.emre/
+### 📫 Let's Connect
 
-[medium]: https://medium.com/@AtakanEmre
-
-[hackerrank]: https://www.hackerrank.com/satakanemre
-
-[twitter]: https://twitter.com/dev_atakan
-
-
-<br><br>
-
-
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/atakan-emre/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <a href="https://medium.com/@AtakanEmre" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <a href="https://twitter.com/dev_atakan" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <a href="https://www.hackerrank.com/satakanemre" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
-  <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/806104/98771085-46d8f180-23a9-11eb-9caf-9d4c0f605749.png" alt="VS Code" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  </a>
- </p>
-
-
-
+</p>
