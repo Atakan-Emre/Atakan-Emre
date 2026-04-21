@@ -19,7 +19,7 @@ Currently, I am working on my Master's thesis focusing on Cross-Modal Hybrid Ben
 
 - 🎓 **Currently studying:** Software Engineering (MSc), preparing for Doctoral Qualifying Exams.
 - 🔬 **Research Focus:** Peptide Property Prediction, Clinical Decision Support Systems (HealthTech), and RAG architectures.
-- 💻 **Tech Philosophy:** Deeply interested in local Large Language Model (LLM) orchestration, agentic workflows (Model Context Protocol), and optimizing models for Apple Silicon (MLX).
+- 💻 **Tech Philosophy:** Deeply interested in local Large Language Model (LLM) orchestration, agentic workflows (Model Context Protocol).
 - 🏆 **Open Source:** Creator and maintainer of [McpTestGenerator](https://github.com/Atakan-Emre/McpTestGenerator), an automated QA tool powered by MCP.
 - 🤝 **Let's collaborate on:** Applied AI in Healthcare, Bioinformatics Data Pipelines, and Open Source LLM Tools.
 
@@ -48,6 +48,7 @@ Currently, I am working on my Master's thesis focusing on Cross-Modal Hybrid Ben
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[McpTestGenerator](https://github.com/Atakan-Emre/McpTestGenerator)** | Standardized Test Case Generation for LLM Agents via Model Context Protocol (MCP). Bridging AI and QA (Xray/Jira). | `TypeScript`, `MCP`, `LLM Agents` |
+| **[TestGen-AI](https://github.com/Atakan-Emre/TestGen-AI)** | AI-Powered Test Case and Automation Generator. Streamlining software quality assurance and testing pipelines using Large Language Models. | `Python/TS`, `LLM`, `QA Automation` |
 | **[PeptiProp](https://github.com/Atakan-Emre/PeptiProp)** | Deep Learning & GNN framework for accurate Peptide Property Prediction. Reranking candidates using ESM-2 embeddings. | `Python`, `PyTorch`, `MLX`, `GNN` |
 | **[NISTH (PostTx-Monitor)](https://github.com/Atakan-Emre/KMRProject)** | AI-Driven Post-Transplant Monitoring. End-to-end clinical decision support system for health risk analysis. | `TensorFlow`, `Next.js`, `Python` |
 | **[Academic-Incentive-RAG](https://github.com/Atakan-Emre/firat-akademik-tesvik-llm)** | AI-Powered Academic Incentive Calculator using RAG. Autonomously analyzes regulations and academic CVs. | `LLM`, `LangChain`, `RAG`, `NLP` |
